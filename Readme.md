@@ -14,7 +14,7 @@ You can install it with the following command in your terminal
 
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-1. Use this command to clone `$ git clone https://github.com/cheruden/Dairy_business.git`
+1. Use this command to clone `$ git clone https://github.com Shamim2019/Dairy_business.git`
 1. This will clone the repositoty into your local folder
 ### Technologies Used
 
@@ -30,4 +30,4 @@ In case of any issue either to give feedback or send a complain, kindly reach ou
 https://shamim2019.github.io/Dairy-business/
 LICENSE
 ## License
-This project is under the [MIT](LICENSE) license
+This project is under the [MIT](LICENSE) 
