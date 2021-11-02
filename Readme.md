@@ -24,9 +24,10 @@ To access this project on your local files, you can clone it using these steps
 1. Git
 ## Support and contact details
 
-In case of any issue either to give feedback or send a complain, kindly reach out to me on my email address: cheruden25@gmail.com
+In case of any issue either to give feedback or send a complain, kindly reach out to me on my email address: shamimmaloba@gmail.com
 
 ### Live Site
+https://shamim2019.github.io/Dairy-business/
 LICENSE
-## Licence
+## License
 This project is under the [MIT](LICENSE) license
